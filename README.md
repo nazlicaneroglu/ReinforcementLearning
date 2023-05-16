@@ -14,3 +14,6 @@ techniques of unsupervised machine learning literature can enhance the algorithm
 specifically, we aim to test whether dimensionality reduction changes the results of linear upper
 confidence bound (UCB) algorithm and to what extend linear UCB and Thompson Sampling (TS)
 algorithms are useful in maximizing approval rates.
+
+
+You can also find the R code and appendix in the end of the document.
